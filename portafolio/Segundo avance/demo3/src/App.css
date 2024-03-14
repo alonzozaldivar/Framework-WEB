@@ -1,0 +1,29 @@
+.titulo {
+  text-align: center;
+  font-size: 50px;
+}
+
+table {
+  width: 70%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+thead th,
+tbody td {
+  padding: 8px 12px;
+  text-align: left;
+}
+
+thead th {
+  background-color: #bfbbc7;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #bcfbc7;
+}
+
