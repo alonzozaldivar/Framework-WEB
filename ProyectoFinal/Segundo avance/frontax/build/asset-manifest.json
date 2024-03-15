@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bce1a10d.css",
+    "main.js": "/static/js/main.01db41a6.js",
+    "static/js/453.66242c12.chunk.js": "/static/js/453.66242c12.chunk.js",
+    "static/media/Logo_Sombritaxd.png": "/static/media/Logo_Sombritaxd.e5a141eed7e4f378a0dc.png",
+    "index.html": "/index.html",
+    "main.bce1a10d.css.map": "/static/css/main.bce1a10d.css.map",
+    "main.01db41a6.js.map": "/static/js/main.01db41a6.js.map",
+    "453.66242c12.chunk.js.map": "/static/js/453.66242c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bce1a10d.css",
+    "static/js/main.01db41a6.js"
+  ]
+}
